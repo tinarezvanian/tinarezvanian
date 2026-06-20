@@ -19,7 +19,7 @@ AI engineer and developer-focused technical content creator. I ship production M
 
 ## Background
 
-Founding ML engineer on Adobe Firefly (joined pre-management, 2023). Five years at Adobe across Document Cloud and Firefly. PhD in Industrial Engineering & Operations Research from Northeastern University. Sole-authored NSF research proposal funded for \$450K. Taught three graduate-level courses with 100+ students each. Recruited by Nvidia's developer relations team for a Developer Advocate role on RAPIDS after a single Adobe Summit talk.
+Founding ML engineer on Adobe Firefly (joined pre-management, 2023). Five years at Adobe across Document Cloud and Firefly. PhD in Industrial Engineering & Operations Research from Northeastern University. Sole-authored NSF research proposal funded for \$450K. Taught three graduate-level courses with 100+ students each. 
 
 ## Find me
 
